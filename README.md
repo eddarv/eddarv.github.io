@@ -1,2 +1,2 @@
-# eddarv.github.io
+# Edward Ramirez - Github
 Edward Ramirez :: Web Developer
